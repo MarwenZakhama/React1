@@ -1,11 +1,14 @@
 .App {
   text-align: center;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top:30px
+}
+.insider{
+  background-color: rgb(224, 249, 255);
+  padding: 90px
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
